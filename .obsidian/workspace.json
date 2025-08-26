@@ -176,11 +176,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76da2bcdb88d7411",
+  "active": "b7d04cfb5b5b51c5",
   "lastOpenFiles": [
     "NOTAS",
     "Bem-vindo.md",
