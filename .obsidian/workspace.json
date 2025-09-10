@@ -4,6 +4,36 @@
     "type": "split",
     "children": [
       {
+        "id": "e9c31d22384a0e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "385fd609edf32691",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Cronograma semanal.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Cronograma semanal"
+            }
+          }
+        ]
+      },
+      {
         "id": "8eafc24028e7c29a",
         "type": "tabs",
         "children": [
@@ -15,7 +45,7 @@
               "state": {
                 "file": "Horário de Aulas.md",
                 "kanbanViewState": {
-                  "kanban-plugin": "board",
+                  "kanban-plugin": "list",
                   "list-collapse": [
                     false,
                     false,
@@ -174,16 +204,6 @@
             }
           },
           {
-            "id": "76da2bcdb88d7411",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "f7c7b7c6c9d85eef",
             "type": "leaf",
             "state": {
@@ -194,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -216,8 +236,11 @@
   },
   "active": "b7d04cfb5b5b51c5",
   "lastOpenFiles": [
-    "2025-08-26.md",
+    "Cronograma semanal.md",
     "Horário de Aulas.md",
+    "Sem título.md",
+    "2025-08-26.md",
+    "Anotações por aula.md",
     "NOTAS",
     "Bem-vindo.md",
     "desktop.ini"
