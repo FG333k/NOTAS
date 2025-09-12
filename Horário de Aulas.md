@@ -12,12 +12,13 @@ kanban-plugin: list
 
 ## Dev/app para Internet
 
-- [ ] Anotações por aula (6)
+- [ ] Anotações por aula (2)
 - [ ] Desenvolver a etapa 4 do projeto prático 1
 
 
 ## POO
 
+- [ ] Anotação por aula (1)
 
 
 ## Banco de Dados
