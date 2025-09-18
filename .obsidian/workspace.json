@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e9c31d22384a0e34",
+        "id": "8eafc24028e7c29a",
         "type": "tabs",
-        "dimension": 48.39622641509434,
         "children": [
           {
-            "id": "385fd609edf32691",
+            "id": "4c5b6d37716dd605",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -35,9 +34,8 @@
         ]
       },
       {
-        "id": "8eafc24028e7c29a",
+        "id": "fbad3daa1d9fe99c",
         "type": "tabs",
-        "dimension": 51.60377358490567,
         "children": [
           {
             "id": "b7d04cfb5b5b51c5",

@@ -12,20 +12,21 @@ kanban-plugin: list
 
 ## Dev/app para Internet
 
-- [ ] Anotações por aula (2)
 - [ ] Desenvolver a etapa 4 do projeto prático 1
+- [ ] Fazer as provas online (5)
 
 
 ## POO
 
 - [ ] Anotação por aula (1)
+- [ ] Resolver lista de programação
 
 
 ## Banco de Dados
 
-- [ ] Estudar tudo que foi feito na ultima aula
-- [ ] Organizar a apresentação do trabalho
-- [ ] Fazer anotação da aula
+- [ ] Estudar normalização de tabelas
+- [ ] Organizar a apresentação do trabalho ########
+- [ ] Após a revisão fazer simulados
 
 
 ## Tec/Sociedade
